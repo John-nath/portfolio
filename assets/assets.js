@@ -94,7 +94,7 @@ export const workData = [
     {
         title: 'Weather App',
         description: 'Backend',
-        bgImage:'/test.jpg.jpg',
+        bgImage:'/work-3.jpg',
         link: 'https://john-nath-weather-app.onrender.com/'
 
     },
@@ -105,6 +105,14 @@ export const workData = [
         link: ' https://rad-shortbread-127ce9.netlify.app/'
        
     },
+    {
+        title: 'Business Header',
+        description: 'UI/UX Design',
+        bgImage: '/work-5.jpg',
+        link: ' '
+       
+    },
+    
 ]
 
 export const serviceData = [
