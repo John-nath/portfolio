@@ -109,7 +109,7 @@ export const workData = [
         title: 'Business Header',
         description: 'UI/UX Design',
         bgImage: '/work-5.jpg',
-        link: ' '
+        link: 'https://businessheader.vercel.app/'
        
     },
     
