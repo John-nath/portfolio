@@ -79,24 +79,30 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Ecommerce project',
+        title: 'Ecommerce',
         description: 'Fullstack',
-        bgImage: '/work-1.png',
+        bgImage: '/work-1011.png',
         link: 'https://effulgent-kelpie-1b44f7.netlify.app/',
     },
     {
         title: 'Chat app',
         description: 'Fullstack',
         bgImage: '/work-2.png',
-        link: 'https://john-nath-chat-app.onrender.com/'
+        link: 'https://chat-app-chi-three-64.vercel.app/'
         
     },
     {
         title: 'Weather App',
         description: 'Backend',
         bgImage:'/work-3.jpg',
-        link: 'https://john-nath-weather-app.onrender.com/'
+        link: 'https://weather-app-two-inky-61.vercel.app/'
 
+    },
+     {
+        title: 'Fictional artiste',
+        description: 'Frontend',
+        bgImage: '/work-9.png',
+        link: 'https://businessheader.vercel.app/'   
     },
     {
         title: 'Shortly',
@@ -107,25 +113,24 @@ export const workData = [
     },
     {
         title: 'Business Header',
-        description: 'UI/UX Design',
+        description: 'Frontend',
         bgImage: '/work-5.jpg',
-        link: 'https://businessheader.vercel.app/'
-       
+        link: 'https://businessheader.vercel.app/'   
     },
-    
+   
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Frontend Development', description: 'Frontend development is the process of building, programming the client-side of a web application ', link: '' },
-    { icon: assets.mobile_icon, title: 'Backend Development ', description: 'Backend development is the process of building, programming the server-side of a web application', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Frontend Development', description: 'I pay close attention to the process of building, programming the client-side of a web application ', link: '' },
+    { icon: assets.mobile_icon, title: 'Backend Development ', description: 'I am competent in, and conversant with the process of building, programming the server-side of a web application', link: '' },
+    { icon: assets.ui_icon, title: 'UI/UX design', description: 'My UI/UX design focuses on creating a seamless user experience for my applications', link: '' },
+    { icon: assets.graphics_icon, title: 'Graphics design', description: 'I am creative in designing solutions that enhance visual communication.', link: '' },
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript, React Js, Next Js, Node Js' },
-    { icon: assets.pngedu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Eng in Telecoms Engineering' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Coding', description: 'HTML, CSS, JavaScript, ReactJS, NextJS, NodeJS' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Eng Telecommunications Engineering' },
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built and deployed more than 5 projects' }
 ];
 
 export const toolsData = [

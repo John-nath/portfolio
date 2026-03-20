@@ -2,11 +2,10 @@ import { assets, serviceData } from '@/assets/assets'
 import Image from 'next/image'
 import React, { useState } from 'react'
 import { motion } from 'motion/react'
-import Modal0 from './Modal0'
+
 
 const Services = () => {
-    const [showModal, setShowModal] = useState(false)
-
+  
   return (
     <motion.div
     initial = {{opacity: 0}}

@@ -42,7 +42,7 @@ const About = ({isDarkMode}) => {
         transition= {{duration: 0.6, delay: 0.8}}
         className='flex-1'>
           <p className='mb-10 max-w-2xl font-Ovo'>
-            I am a Fullstack Developer with over two years of experience in Web Development. I am looking to take on sustainable projects, collaborate with prestigious organizations and contribute to their success and growth.
+            I am a Fullstack Developer with over two years of experience in Web Development. I am looking to solve real-world problems for prestigious organizations and contribute to their success and growth.
           </p>
 
           <motion.ul
